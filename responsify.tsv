@@ -1,0 +1,1071 @@
+q1id	q2id	q1	q2	is_duplicate
+1	1	How easy is it to use our product?	How easy is it to use our product?	1
+1	3	How easy is it to use our product?	How easy is it to use our products?	1
+1	4	How easy is it to use our product?	main benefits of our product	1
+1	5	How easy is it to use our product?	useful solutions by our product	0
+1	6	How easy is it to use our product?	How useful our product	0
+1	7	How easy is it to use our product?	What are you trying to solve by using our product?	0
+1	8	How easy is it to use our product?	Tell me about your products	0
+1	9	How easy is it to use our product?	Which features are most valuable to your product	0
+1	10	How easy is it to use our product?	best product of your company	0
+1	11	How easy is it to use our product?	Tell me about your best product	0
+11	11	Has your Company ever filed for bankruptcy	Has your Company ever filed for bankruptcy	1
+11	13	Has your Company ever filed for bankruptcy	status of the bankruptcy filing	0
+11	14	Has your Company ever filed for bankruptcy	your company name?	0
+11	15	Has your Company ever filed for bankruptcy	may i know your company founding date	0
+11	16	Has your Company ever filed for bankruptcy	Your company name	0
+11	17	Has your Company ever filed for bankruptcy	who is the main investor of your company?	0
+11	18	Has your Company ever filed for bankruptcy	What is your company's legal name?	0
+11	19	Has your Company ever filed for bankruptcy	What is your Company’s legal name	0
+11	20	Has your Company ever filed for bankruptcy	How is your company financed?	0
+11	21	Has your Company ever filed for bankruptcy	When was your company founded?	0
+21	21	locations of your company?	locations of your company?	1
+21	23	locations of your company?	where is your company located	1
+21	24	locations of your company?	what is your company location?	1
+21	25	locations of your company?	what are the company locations	1
+21	26	locations of your company?	what are your client locations?	1
+21	27	locations of your company?	Which features are most valuable to your company	0
+21	28	locations of your company?	Where are your Company’s remote, sales and support offices located	0
+21	17	locations of your company?	who is the main investor of your company?	0
+21	30	locations of your company?	founding date of your company	0
+21	14	locations of your company?	your company name?	0
+31	31	please add your awards	please add your awards	1
+31	33	please add your awards	Please describe any recent industry awards	0
+31	34	please add your awards	Which features are most valuable to you	0
+31	35	please add your awards	What is your plan for next year	0
+31	36	please add your awards	What is your parent organisation name?	0
+31	37	please add your awards	What is your name	0
+31	38	please add your awards	what is your most popular product?	0
+31	39	please add your awards	Which is your best selling product	0
+31	40	please add your awards	what are your business plans?	0
+31	41	please add your awards	what is your organisation name?	0
+26	26	what are your client locations?	what are your client locations?	1
+26	24	what are your client locations?	what is your company location?	1
+26	44	what are your client locations?	Your locations ?	1
+26	21	what are your client locations?	locations of your company?	1
+26	23	what are your client locations?	where is your company located	1
+26	47	what are your client locations?	location of your main office	0
+26	41	what are your client locations?	what is your organisation name?	0
+26	49	what are your client locations?	may i know your locations	0
+26	50	what are your client locations?	Who is your investor	0
+26	40	what are your client locations?	what are your business plans?	0
+51	51	Can you give me online support	Can you give me online support	1
+51	53	Can you give me online support	How will be your online support working	1
+51	54	Can you give me online support	Do you provide online help for users	1
+51	55	Can you give me online support	is there any online support for clients	1
+51	56	Can you give me online support	Please add about knowledge transfer	0
+51	57	Can you give me online support	What is the normal full System support available	0
+51	58	Can you give me online support	what are the support you provided for clients	0
+51	49	Can you give me online support	may i know your locations	0
+51	60	Can you give me online support	may i know your business plans	0
+51	28	Can you give me online support	Where are your Company’s remote, sales and support offices located	0
+61	61	tell me the best selling product	tell me the best selling product	1
+61	39	tell me the best selling product	Which is your best selling product	1
+61	11	tell me the best selling product	Tell me about your best product	1
+61	38	tell me the best selling product	what is your most popular product?	1
+61	9	tell me the best selling product	Which features are most valuable to your product	1
+61	8	tell me the best selling product	Tell me about your products	1
+61	4	tell me the best selling product	main benefits of our product	0
+61	6	tell me the best selling product	How useful our product	0
+61	34	tell me the best selling product	Which features are most valuable to you	0
+61	71	tell me the best selling product	how to measure product quality questions	0
+71	71	What are you Company’s origins	What are you Company’s origins	1
+71	73	What are you Company’s origins	tell me your company origins	1
+71	74	What are you Company’s origins	When was your company founded	1
+71	75	What are you Company’s origins	When was your Company founded	1
+71	21	What are you Company’s origins	When was your company founded?	1
+71	77	What are you Company’s origins	What is the founding date of your company	1
+71	30	What are you Company’s origins	founding date of your company	1
+71	79	What are you Company’s origins	How is your Company financed	0
+71	20	What are you Company’s origins	How is your company financed?	0
+71	81	What are you Company’s origins	what is your company name	0
+81	81	may i know your company name?	may i know your company name?	1
+81	83	may i know your company name?	may i know your organisation name	1
+81	14	may i know your company name?	your company name?	1
+81	85	may i know your company name?	What is your company name?	1
+81	15	may i know your company name?	may i know your company founding date	1
+81	81	may i know your company name?	what is your company name	1
+81	88	may i know your company name?	may i know your company	1
+81	18	may i know your company name?	What is your company's legal name?	1
+81	16	may i know your company name?	Your company name	1
+81	19	may i know your company name?	What is your Company’s legal name	1
+40	40	what are your business plans?	what are your business plans?	1
+40	93	what are your business plans?	What is your current business plan	1
+40	94	what are your business plans?	Tell me about your business plans	1
+40	60	what are your business plans?	may i know your business plans	1
+40	96	what are your business plans?	What is your Company’s planned financial growth	1
+40	35	what are your business plans?	What is your plan for next year	1
+40	98	what are your business plans?	What is your Company’s business continuity plan	1
+40	39	what are your business plans?	Which is your best selling product	0
+40	38	what are your business plans?	what is your most popular product?	0
+40	81	what are your business plans?	what is your company name	0
+41	41	what is your organisation name?	what is your organisation name?	1
+41	103	what is your organisation name?	your organisation name?	1
+41	36	what is your organisation name?	What is your parent organisation name?	1
+41	105	what is your organisation name?	Your Organisation name	1
+41	85	what is your organisation name?	What is your company name?	1
+41	81	what is your organisation name?	what is your company name	1
+41	83	what is your organisation name?	may i know your organisation name	1
+41	14	what is your organisation name?	your company name?	1
+41	37	what is your organisation name?	What is your name	1
+41	18	what is your organisation name?	What is your company's legal name?	1
+53	53	How will be your online support working	How will be your online support working	1
+53	51	How will be your online support working	Can you give me online support	1
+53	55	How will be your online support working	is there any online support for clients	1
+53	54	How will be your online support working	Do you provide online help for users	1
+53	57	How will be your online support working	What is the normal full System support available	0
+53	28	How will be your online support working	Where are your Company’s remote, sales and support offices located	0
+53	58	How will be your online support working	what are the support you provided for clients	0
+53	119	How will be your online support working	where is your company's support offices?	0
+53	56	How will be your online support working	Please add about knowledge transfer	0
+53	121	How will be your online support working	How do you implement your solution	0
+47	47	location of your main office	location of your main office	1
+47	24	location of your main office	what is your company location?	1
+47	23	location of your main office	where is your company located	1
+47	26	location of your main office	what are your client locations?	0
+47	28	location of your main office	Where are your Company’s remote, sales and support offices located	0
+47	44	location of your main office	Your locations ?	0
+47	119	location of your main office	where is your company's support offices?	0
+47	21	location of your main office	locations of your company?	0
+47	25	location of your main office	what are the company locations	0
+47	30	location of your main office	founding date of your company	0
+96	96	What is your Company’s planned financial growth	What is your Company’s planned financial growth	1
+96	133	What is your Company’s planned financial growth	How is your company's growth	1
+96	40	What is your Company’s planned financial growth	what are your business plans?	1
+96	135	What is your Company’s planned financial growth	What is your Company’s Turnover rate	1
+96	93	What is your Company’s planned financial growth	What is your current business plan	1
+96	94	What is your Company’s planned financial growth	Tell me about your business plans	1
+96	60	What is your Company’s planned financial growth	may i know your business plans	1
+96	98	What is your Company’s planned financial growth	What is your Company’s business continuity plan	0
+96	35	What is your Company’s planned financial growth	What is your plan for next year	0
+96	38	What is your Company’s planned financial growth	what is your most popular product?	0
+141	141	What support documentation is provided	What support documentation is provided	1
+141	57	What support documentation is provided	What is the normal full System support available	0
+141	119	What support documentation is provided	where is your company's support offices?	0
+141	58	What support documentation is provided	what are the support you provided for clients	0
+141	53	What support documentation is provided	How will be your online support working	0
+141	55	What support documentation is provided	is there any online support for clients	0
+141	51	What support documentation is provided	Can you give me online support	0
+141	28	What support documentation is provided	Where are your Company’s remote, sales and support offices located	0
+141	83	What support documentation is provided	may i know your organisation name	0
+141	60	What support documentation is provided	may i know your business plans	0
+83	83	may i know your organisation name	may i know your organisation name	1
+83	153	may i know your organisation name	may i know your organisation	1
+83	105	may i know your organisation name	Your Organisation name	1
+83	81	may i know your organisation name	may i know your company name?	1
+83	103	may i know your organisation name	your organisation name?	1
+83	41	may i know your organisation name	what is your organisation name?	1
+83	36	may i know your organisation name	What is your parent organisation name?	1
+83	15	may i know your organisation name	may i know your company founding date	1
+83	49	may i know your organisation name	may i know your locations	0
+83	60	may i know your organisation name	may i know your business plans	0
+7	7	What are you trying to solve by using our product?	What are you trying to solve by using our product?	1
+7	5	What are you trying to solve by using our product?	useful solutions by our product	1
+7	8	What are you trying to solve by using our product?	Tell me about your products	1
+7	4	What are you trying to solve by using our product?	main benefits of our product	0
+7	6	What are you trying to solve by using our product?	How useful our product	0
+7	1	What are you trying to solve by using our product?	How easy is it to use our product?	0
+7	9	What are you trying to solve by using our product?	Which features are most valuable to your product	0
+7	3	What are you trying to solve by using our product?	How easy is it to use our products?	0
+7	10	What are you trying to solve by using our product?	best product of your company	0
+7	11	What are you trying to solve by using our product?	Tell me about your best product	0
+98	98	What is your Company’s business continuity plan	What is your Company’s business continuity plan	1
+98	93	What is your Company’s business continuity plan	What is your current business plan	1
+98	94	What is your Company’s business continuity plan	Tell me about your business plans	1
+98	40	What is your Company’s business continuity plan	what are your business plans?	1
+98	96	What is your Company’s business continuity plan	What is your Company’s planned financial growth	0
+98	133	What is your Company’s business continuity plan	How is your company's growth	0
+98	60	What is your Company’s business continuity plan	may i know your business plans	0
+98	81	What is your Company’s business continuity plan	what is your company name	0
+98	19	What is your Company’s business continuity plan	What is your Company’s legal name	0
+98	24	What is your Company’s business continuity plan	what is your company location?	0
+10	10	best product of your company	best product of your company	1
+10	27	best product of your company	Which features are most valuable to your company	1
+10	9	best product of your company	Which features are most valuable to your product	1
+10	11	best product of your company	Tell me about your best product	0
+10	39	best product of your company	Which is your best selling product	0
+10	8	best product of your company	Tell me about your products	0
+10	4	best product of your company	main benefits of our product	0
+10	38	best product of your company	what is your most popular product?	0
+10	81	best product of your company	what is your company name	0
+10	7	best product of your company	What are you trying to solve by using our product?	0
+19	19	What is your Company’s legal name	What is your Company’s legal name	1
+19	18	What is your Company’s legal name	What is your company's legal name?	1
+19	16	What is your Company’s legal name	Your company name	1
+19	81	What is your Company’s legal name	what is your company name	1
+19	85	What is your Company’s legal name	What is your company name?	1
+19	14	What is your Company’s legal name	your company name?	1
+19	36	What is your Company’s legal name	What is your parent organisation name?	1
+19	41	What is your Company’s legal name	what is your organisation name?	1
+19	81	What is your Company’s legal name	may i know your company name?	1
+19	17	What is your Company’s legal name	who is the main investor of your company?	0
+103	103	your organisation name?	your organisation name?	1
+103	105	your organisation name?	Your Organisation name	1
+103	41	your organisation name?	what is your organisation name?	1
+103	36	your organisation name?	What is your parent organisation name?	1
+103	83	your organisation name?	may i know your organisation name	1
+103	14	your organisation name?	your company name?	1
+103	85	your organisation name?	What is your company name?	1
+103	81	your organisation name?	what is your company name	1
+103	16	your organisation name?	Your company name	1
+103	18	your organisation name?	What is your company's legal name?	0
+3	3	How easy is it to use our products?	How easy is it to use our products?	1
+3	1	How easy is it to use our products?	How easy is it to use our product?	1
+3	4	How easy is it to use our products?	main benefits of our product	1
+3	5	How easy is it to use our products?	useful solutions by our product	1
+3	6	How easy is it to use our products?	How useful our product	0
+3	7	How easy is it to use our products?	What are you trying to solve by using our product?	0
+3	8	How easy is it to use our products?	Tell me about your products	0
+3	9	How easy is it to use our products?	Which features are most valuable to your product	0
+3	61	How easy is it to use our products?	tell me the best selling product	0
+3	39	How easy is it to use our products?	Which is your best selling product	0
+18	18	What is your company's legal name?	What is your company's legal name?	1
+18	19	What is your company's legal name?	What is your Company’s legal name	1
+18	14	What is your company's legal name?	your company name?	1
+18	16	What is your company's legal name?	Your company name	1
+18	81	What is your company's legal name?	what is your company name	1
+18	85	What is your company's legal name?	What is your company name?	1
+18	81	What is your company's legal name?	may i know your company name?	1
+18	36	What is your company's legal name?	What is your parent organisation name?	1
+18	41	What is your company's legal name?	what is your organisation name?	1
+18	103	What is your company's legal name?	your organisation name?	0
+50	50	Who is your investor	Who is your investor	1
+50	17	Who is your investor	who is the main investor of your company?	1
+50	234	Who is your investor	who is your major shareholder	1
+50	235	Who is your investor	Tell me about your investers	1
+50	26	Who is your investor	what are your client locations?	0
+50	20	Who is your investor	How is your company financed?	0
+50	40	Who is your investor	what are your business plans?	0
+50	239	Who is your investor	your main competitors?	0
+50	79	Who is your investor	How is your Company financed	0
+50	241	Who is your investor	How is your company funded	0
+88	88	may i know your company	may i know your company	1
+88	81	may i know your company	may i know your company name?	1
+88	153	may i know your company	may i know your organisation	1
+88	15	may i know your company	may i know your company founding date	1
+88	83	may i know your company	may i know your organisation name	0
+88	30	may i know your company	founding date of your company	0
+88	21	may i know your company	locations of your company?	0
+88	14	may i know your company	your company name?	0
+88	77	may i know your company	What is the founding date of your company	0
+88	17	may i know your company	who is the main investor of your company?	0
+251	251	What are the three types of KPIs?	What are the three types of KPIs?	1
+251	253	What are the three types of KPIs?	How is product quality KPI measured?	0
+251	61	What are the three types of KPIs?	tell me the best selling product	0
+251	34	What are the three types of KPIs?	Which features are most valuable to you	0
+251	57	What are the three types of KPIs?	What is the normal full System support available	0
+251	38	What are the three types of KPIs?	what is your most popular product?	0
+251	11	What are the three types of KPIs?	Tell me about your best product	0
+251	39	What are the three types of KPIs?	Which is your best selling product	0
+251	260	What are the three types of KPIs?	What important features are we missing?	0
+251	35	What are the three types of KPIs?	What is your plan for next year	0
+57	57	What is the normal full System support available	What is the normal full System support available	1
+57	53	What is the normal full System support available	How will be your online support working	0
+57	51	What is the normal full System support available	Can you give me online support	0
+57	55	What is the normal full System support available	is there any online support for clients	0
+57	35	What is the normal full System support available	What is your plan for next year	0
+57	93	What is the normal full System support available	What is your current business plan	0
+57	60	What is the normal full System support available	may i know your business plans	0
+57	141	What is the normal full System support available	What support documentation is provided	0
+57	58	What is the normal full System support available	what are the support you provided for clients	0
+57	49	What is the normal full System support available	may i know your locations	0
+271	271	please provide the missing features?	please provide the missing features?	1
+271	260	please provide the missing features?	What important features are we missing?	1
+271	274	please provide the missing features?	what are the missing features in the product?	0
+271	57	please provide the missing features?	What is the normal full System support available	0
+271	34	please provide the missing features?	Which features are most valuable to you	0
+271	49	please provide the missing features?	may i know your locations	0
+271	35	please provide the missing features?	What is your plan for next year	0
+271	51	please provide the missing features?	Can you give me online support	0
+271	71	please provide the missing features?	how to measure product quality questions	0
+271	60	please provide the missing features?	may i know your business plans	0
+281	281	How long is the product provided, in terms of different components	How long is the product provided, in terms of different components	1
+281	283	How long is the product provided, in terms of different components	How long has the product existed for since its first version	1
+281	274	How long is the product provided, in terms of different components	what are the missing features in the product?	0
+281	61	How long is the product provided, in terms of different components	tell me the best selling product	0
+281	96	How long is the product provided, in terms of different components	What is your Company’s planned financial growth	0
+281	71	How long is the product provided, in terms of different components	how to measure product quality questions	0
+281	133	How long is the product provided, in terms of different components	How is your company's growth	0
+281	260	How long is the product provided, in terms of different components	What important features are we missing?	0
+281	35	How long is the product provided, in terms of different components	What is your plan for next year	0
+281	57	How long is the product provided, in terms of different components	What is the normal full System support available	0
+39	39	Which is your best selling product	Which is your best selling product	1
+39	38	Which is your best selling product	what is your most popular product?	1
+39	11	Which is your best selling product	Tell me about your best product	1
+39	61	Which is your best selling product	tell me the best selling product	1
+39	9	Which is your best selling product	Which features are most valuable to your product	1
+39	34	Which is your best selling product	Which features are most valuable to you	1
+39	8	Which is your best selling product	Tell me about your products	1
+39	40	Which is your best selling product	what are your business plans?	0
+39	93	Which is your best selling product	What is your current business plan	0
+39	96	Which is your best selling product	What is your Company’s planned financial growth	0
+60	60	may i know your business plans	may i know your business plans	1
+60	94	may i know your business plans	Tell me about your business plans	1
+60	40	may i know your business plans	what are your business plans?	1
+60	93	may i know your business plans	What is your current business plan	1
+60	35	may i know your business plans	What is your plan for next year	1
+60	49	may i know your business plans	may i know your locations	1
+60	308	may i know your business plans	may i knnow your financial status	1
+60	96	may i know your business plans	What is your Company’s planned financial growth	1
+60	15	may i know your business plans	may i know your company founding date	0
+60	81	may i know your business plans	may i know your company name?	0
+21	21	When was your company founded?	When was your company founded?	1
+21	74	When was your company founded?	When was your company founded	1
+21	75	When was your company founded?	When was your Company founded	1
+21	77	When was your company founded?	What is the founding date of your company	1
+21	71	When was your company founded?	What are you Company’s origins	1
+21	30	When was your company founded?	founding date of your company	1
+21	73	When was your company founded?	tell me your company origins	1
+21	319	When was your company founded?	When was your company inagurated	1
+21	15	When was your company founded?	may i know your company founding date	0
+21	23	When was your company founded?	where is your company located	0
+27	27	Which features are most valuable to your company	Which features are most valuable to your company	1
+27	10	Which features are most valuable to your company	best product of your company	1
+27	21	Which features are most valuable to your company	locations of your company?	0
+27	19	Which features are most valuable to your company	What is your Company’s legal name	0
+27	81	Which features are most valuable to your company	what is your company name	0
+27	16	Which features are most valuable to your company	Your company name	0
+27	9	Which features are most valuable to your company	Which features are most valuable to your product	0
+27	24	Which features are most valuable to your company	what is your company location?	0
+27	85	Which features are most valuable to your company	What is your company name?	0
+27	18	Which features are most valuable to your company	What is your company's legal name?	0
+94	94	Tell me about your business plans	Tell me about your business plans	1
+94	40	Tell me about your business plans	what are your business plans?	1
+94	93	Tell me about your business plans	What is your current business plan	1
+94	60	Tell me about your business plans	may i know your business plans	1
+94	96	Tell me about your business plans	What is your Company’s planned financial growth	1
+94	35	Tell me about your business plans	What is your plan for next year	1
+94	98	Tell me about your business plans	What is your Company’s business continuity plan	1
+94	11	Tell me about your business plans	Tell me about your best product	0
+94	308	Tell me about your business plans	may i knnow your financial status	0
+94	34	Tell me about your business plans	Which features are most valuable to you	0
+283	283	How long has the product existed for since its first version	How long has the product existed for since its first version	1
+283	281	How long has the product existed for since its first version	How long is the product provided, in terms of different components	1
+283	344	How long has the product existed for since its first version	how last vertion implimented	0
+283	274	How long has the product existed for since its first version	what are the missing features in the product?	0
+283	319	How long has the product existed for since its first version	When was your company inagurated	0
+283	77	How long has the product existed for since its first version	What is the founding date of your company	0
+283	21	How long has the product existed for since its first version	When was your company founded?	0
+283	74	How long has the product existed for since its first version	When was your company founded	0
+283	75	How long has the product existed for since its first version	When was your Company founded	0
+283	71	How long has the product existed for since its first version	What are you Company’s origins	0
+351	351	what is the status of bankruptcy?	what is the status of bankruptcy?	1
+351	13	what is the status of bankruptcy?	status of the bankruptcy filing	0
+351	308	what is the status of bankruptcy?	may i knnow your financial status	0
+351	260	what is the status of bankruptcy?	What important features are we missing?	0
+351	35	what is the status of bankruptcy?	What is your plan for next year	0
+351	11	what is the status of bankruptcy?	Has your Company ever filed for bankruptcy	0
+351	271	what is the status of bankruptcy?	please provide the missing features?	0
+351	57	what is the status of bankruptcy?	What is the normal full System support available	0
+351	96	what is the status of bankruptcy?	What is your Company’s planned financial growth	0
+351	18	what is the status of bankruptcy?	What is your company's legal name?	0
+4	4	main benefits of our product	main benefits of our product	1
+4	6	main benefits of our product	How useful our product	1
+4	9	main benefits of our product	Which features are most valuable to your product	1
+4	5	main benefits of our product	useful solutions by our product	1
+4	8	main benefits of our product	Tell me about your products	1
+4	3	main benefits of our product	How easy is it to use our products?	1
+4	1	main benefits of our product	How easy is it to use our product?	1
+4	7	main benefits of our product	What are you trying to solve by using our product?	0
+4	61	main benefits of our product	tell me the best selling product	0
+4	11	main benefits of our product	Tell me about your best product	0
+77	77	What is the founding date of your company	What is the founding date of your company	1
+77	30	What is the founding date of your company	founding date of your company	1
+77	21	What is the founding date of your company	When was your company founded?	1
+77	74	What is the founding date of your company	When was your company founded	1
+77	75	What is the founding date of your company	When was your Company founded	1
+77	15	What is the founding date of your company	may i know your company founding date	1
+77	71	What is the founding date of your company	What are you Company’s origins	1
+77	73	What is the founding date of your company	tell me your company origins	1
+77	24	What is the founding date of your company	what is your company location?	0
+77	19	What is the founding date of your company	What is your Company’s legal name	0
+381	381	Who would you list as your main competitors and why do you feel that your competitors?	Who would you list as your main competitors and why do you feel that your competitors?	1
+381	239	Who would you list as your main competitors and why do you feel that your competitors?	your main competitors?	1
+381	17	Who would you list as your main competitors and why do you feel that your competitors?	who is the main investor of your company?	0
+381	38	Who would you list as your main competitors and why do you feel that your competitors?	what is your most popular product?	0
+381	50	Who would you list as your main competitors and why do you feel that your competitors?	Who is your investor	0
+381	39	Who would you list as your main competitors and why do you feel that your competitors?	Which is your best selling product	0
+381	234	Who would you list as your main competitors and why do you feel that your competitors?	who is your major shareholder	0
+381	34	Who would you list as your main competitors and why do you feel that your competitors?	Which features are most valuable to you	0
+381	26	Who would you list as your main competitors and why do you feel that your competitors?	what are your client locations?	0
+381	11	Who would you list as your main competitors and why do you feel that your competitors?	Tell me about your best product	0
+81	81	what is your company name	what is your company name	1
+81	85	what is your company name	What is your company name?	1
+81	14	what is your company name	your company name?	1
+81	16	what is your company name	Your company name	1
+81	19	what is your company name	What is your Company’s legal name	1
+81	18	what is your company name	What is your company's legal name?	1
+81	36	what is your company name	What is your parent organisation name?	1
+81	41	what is your company name	what is your organisation name?	1
+81	37	what is your company name	What is your name	1
+81	81	what is your company name	may i know your company name?	1
+401	401	Do you provide a helpdesk for users (if yes, what is the availability)	Do you provide a helpdesk for users (if yes, what is the availability)	1
+401	54	Do you provide a helpdesk for users (if yes, what is the availability)	Do you provide online help for users	0
+401	51	Do you provide a helpdesk for users (if yes, what is the availability)	Can you give me online support	0
+401	53	Do you provide a helpdesk for users (if yes, what is the availability)	How will be your online support working	0
+401	28	Do you provide a helpdesk for users (if yes, what is the availability)	Where are your Company’s remote, sales and support offices located	0
+401	58	Do you provide a helpdesk for users (if yes, what is the availability)	what are the support you provided for clients	0
+401	55	Do you provide a helpdesk for users (if yes, what is the availability)	is there any online support for clients	0
+401	119	Do you provide a helpdesk for users (if yes, what is the availability)	where is your company's support offices?	0
+401	24	Do you provide a helpdesk for users (if yes, what is the availability)	what is your company location?	0
+401	83	Do you provide a helpdesk for users (if yes, what is the availability)	may i know your organisation name	0
+74	74	When was your company founded	When was your company founded	1
+74	75	When was your company founded	When was your Company founded	1
+74	21	When was your company founded	When was your company founded?	1
+74	77	When was your company founded	What is the founding date of your company	1
+74	30	When was your company founded	founding date of your company	1
+74	73	When was your company founded	tell me your company origins	1
+74	71	When was your company founded	What are you Company’s origins	1
+74	319	When was your company founded	When was your company inagurated	1
+74	15	When was your company founded	may i know your company founding date	0
+74	23	When was your company founded	where is your company located	0
+308	308	may i knnow your financial status	may i knnow your financial status	1
+308	60	may i knnow your financial status	may i know your business plans	1
+308	96	may i knnow your financial status	What is your Company’s planned financial growth	0
+308	81	may i knnow your financial status	may i know your company name?	0
+308	94	may i knnow your financial status	Tell me about your business plans	0
+308	40	may i knnow your financial status	what are your business plans?	0
+308	35	may i knnow your financial status	What is your plan for next year	0
+308	351	may i knnow your financial status	what is the status of bankruptcy?	0
+308	83	may i knnow your financial status	may i know your organisation name	0
+308	93	may i knnow your financial status	What is your current business plan	0
+235	235	Tell me about your investers	Tell me about your investers	1
+235	50	Tell me about your investers	Who is your investor	1
+235	17	Tell me about your investers	who is the main investor of your company?	0
+235	20	Tell me about your investers	How is your company financed?	0
+235	79	Tell me about your investers	How is your Company financed	0
+235	241	Tell me about your investers	How is your company funded	0
+235	94	Tell me about your investers	Tell me about your business plans	0
+235	234	Tell me about your investers	who is your major shareholder	0
+235	40	Tell me about your investers	what are your business plans?	0
+235	96	Tell me about your investers	What is your Company’s planned financial growth	0
+441	441	How in your company financed to make this product	How in your company financed to make this product	1
+441	79	How in your company financed to make this product	How is your Company financed	0
+441	241	How in your company financed to make this product	How is your company funded	0
+441	20	How in your company financed to make this product	How is your company financed?	0
+441	73	How in your company financed to make this product	tell me your company origins	0
+441	8	How in your company financed to make this product	Tell me about your products	0
+441	10	How in your company financed to make this product	best product of your company	0
+441	30	How in your company financed to make this product	founding date of your company	0
+441	6	How in your company financed to make this product	How useful our product	0
+441	58	How in your company financed to make this product	what are the support you provided for clients	0
+33	33	Please describe any recent industry awards	Please describe any recent industry awards	1
+33	31	Please describe any recent industry awards	please add your awards	0
+33	454	Please describe any recent industry awards	Please describe any industry accreditations	0
+33	35	Please describe any recent industry awards	What is your plan for next year	0
+33	96	Please describe any recent industry awards	What is your Company’s planned financial growth	0
+33	11	Please describe any recent industry awards	Tell me about your best product	0
+33	38	Please describe any recent industry awards	what is your most popular product?	0
+33	60	Please describe any recent industry awards	may i know your business plans	0
+33	34	Please describe any recent industry awards	Which features are most valuable to you	0
+33	61	Please describe any recent industry awards	tell me the best selling product	0
+44	44	Your locations ?	Your locations ?	1
+44	49	Your locations ?	may i know your locations	1
+44	26	Your locations ?	what are your client locations?	1
+44	24	Your locations ?	what is your company location?	1
+44	47	Your locations ?	location of your main office	0
+44	40	Your locations ?	what are your business plans?	0
+44	28	Your locations ?	Where are your Company’s remote, sales and support offices located	0
+44	60	Your locations ?	may i know your business plans	0
+44	41	Your locations ?	what is your organisation name?	0
+44	83	Your locations ?	may i know your organisation name	0
+133	133	How is your company's growth	How is your company's growth	1
+133	96	How is your company's growth	What is your Company’s planned financial growth	1
+133	135	How is your company's growth	What is your Company’s Turnover rate	0
+133	98	How is your company's growth	What is your Company’s business continuity plan	0
+133	40	How is your company's growth	what are your business plans?	0
+133	94	How is your company's growth	Tell me about your business plans	0
+133	93	How is your company's growth	What is your current business plan	0
+133	27	How is your company's growth	Which features are most valuable to your company	0
+133	241	How is your company's growth	How is your company funded	0
+133	20	How is your company's growth	How is your company financed?	0
+153	153	may i know your organisation	may i know your organisation	1
+153	83	may i know your organisation	may i know your organisation name	1
+153	88	may i know your organisation	may i know your company	1
+153	105	may i know your organisation	Your Organisation name	0
+153	15	may i know your organisation	may i know your company founding date	0
+153	81	may i know your organisation	may i know your company name?	0
+153	49	may i know your organisation	may i know your locations	0
+153	103	may i know your organisation	your organisation name?	0
+153	60	may i know your organisation	may i know your business plans	0
+153	41	may i know your organisation	what is your organisation name?	0
+56	56	Please add about knowledge transfer	Please add about knowledge transfer	1
+56	493	Please add about knowledge transfer	please provide details about knowledge transfer	1
+56	494	Please add about knowledge transfer	How is formal knowledge transfer accomplished as part of the engagement	1
+56	495	Please add about knowledge transfer	How will share your knowledge with others?	0
+56	51	Please add about knowledge transfer	Can you give me online support	0
+56	53	Please add about knowledge transfer	How will be your online support working	0
+56	60	Please add about knowledge transfer	may i know your business plans	0
+56	35	Please add about knowledge transfer	What is your plan for next year	0
+56	94	Please add about knowledge transfer	Tell me about your business plans	0
+56	96	Please add about knowledge transfer	What is your Company’s planned financial growth	0
+501	501	What is the company vision and strategy for the market place in which it operates	What is the company vision and strategy for the market place in which it operates	1
+501	27	What is the company vision and strategy for the market place in which it operates	Which features are most valuable to your company	0
+501	133	What is the company vision and strategy for the market place in which it operates	How is your company's growth	0
+501	96	What is the company vision and strategy for the market place in which it operates	What is your Company’s planned financial growth	0
+501	3	What is the company vision and strategy for the market place in which it operates	How easy is it to use our products?	0
+501	25	What is the company vision and strategy for the market place in which it operates	what are the company locations	0
+501	98	What is the company vision and strategy for the market place in which it operates	What is your Company’s business continuity plan	0
+501	21	What is the company vision and strategy for the market place in which it operates	locations of your company?	0
+501	10	What is the company vision and strategy for the market place in which it operates	best product of your company	0
+501	71	What is the company vision and strategy for the market place in which it operates	What are you Company’s origins	0
+511	511	Can Bidify submit requests for product functional changes to be included in future releases	Can Bidify submit requests for product functional changes to be included in future releases	1
+511	7	Can Bidify submit requests for product functional changes to be included in future releases	What are you trying to solve by using our product?	0
+511	5	Can Bidify submit requests for product functional changes to be included in future releases	useful solutions by our product	0
+511	8	Can Bidify submit requests for product functional changes to be included in future releases	Tell me about your products	0
+511	11	Can Bidify submit requests for product functional changes to be included in future releases	Tell me about your best product	0
+511	3	Can Bidify submit requests for product functional changes to be included in future releases	How easy is it to use our products?	0
+511	9	Can Bidify submit requests for product functional changes to be included in future releases	Which features are most valuable to your product	0
+511	71	Can Bidify submit requests for product functional changes to be included in future releases	how to measure product quality questions	0
+511	121	Can Bidify submit requests for product functional changes to be included in future releases	How do you implement your solution	0
+511	33	Can Bidify submit requests for product functional changes to be included in future releases	Please describe any recent industry awards	0
+36	36	What is your parent organisation name?	What is your parent organisation name?	1
+36	41	What is your parent organisation name?	what is your organisation name?	1
+36	103	What is your parent organisation name?	your organisation name?	1
+36	85	What is your parent organisation name?	What is your company name?	1
+36	81	What is your parent organisation name?	what is your company name	1
+36	105	What is your parent organisation name?	Your Organisation name	1
+36	37	What is your parent organisation name?	What is your name	1
+36	14	What is your parent organisation name?	your company name?	1
+36	16	What is your parent organisation name?	Your company name	1
+36	18	What is your parent organisation name?	What is your company's legal name?	1
+260	260	What important features are we missing?	What important features are we missing?	1
+260	271	What important features are we missing?	please provide the missing features?	1
+260	274	What important features are we missing?	what are the missing features in the product?	0
+260	34	What important features are we missing?	Which features are most valuable to you	0
+260	57	What important features are we missing?	What is the normal full System support available	0
+260	35	What important features are we missing?	What is your plan for next year	0
+260	351	What important features are we missing?	what is the status of bankruptcy?	0
+260	71	What important features are we missing?	how to measure product quality questions	0
+260	141	What important features are we missing?	What support documentation is provided	0
+260	308	What important features are we missing?	may i knnow your financial status	0
+49	49	may i know your locations	may i know your locations	1
+49	44	may i know your locations	Your locations ?	1
+49	60	may i know your locations	may i know your business plans	1
+49	83	may i know your locations	may i know your organisation name	0
+49	153	may i know your locations	may i know your organisation	0
+49	26	may i know your locations	what are your client locations?	0
+49	81	may i know your locations	may i know your company name?	0
+49	24	may i know your locations	what is your company location?	0
+49	51	may i know your locations	Can you give me online support	0
+49	495	may i know your locations	How will share your knowledge with others?	0
+239	239	your main competitors?	your main competitors?	1
+239	381	your main competitors?	Who would you list as your main competitors and why do you feel that your competitors?	1
+239	38	your main competitors?	what is your most popular product?	0
+239	17	your main competitors?	who is the main investor of your company?	0
+239	50	your main competitors?	Who is your investor	0
+239	234	your main competitors?	who is your major shareholder	0
+239	26	your main competitors?	what are your client locations?	0
+239	39	your main competitors?	Which is your best selling product	0
+239	37	your main competitors?	What is your name	0
+239	44	your main competitors?	Your locations ?	0
+71	71	how to measure product quality questions	how to measure product quality questions	1
+71	563	how to measure product quality questions	How can we measure product quality?	1
+71	564	how to measure product quality questions	How do companies measure quality?	1
+71	565	how to measure product quality questions	quality measurement methods	1
+71	566	how to measure product quality questions	product quality metrics	0
+71	567	how to measure product quality questions	What metrics can be used to measure quality?	0
+71	568	how to measure product quality questions	indicators of product quality	0
+71	253	how to measure product quality questions	How is product quality KPI measured?	0
+71	60	how to measure product quality questions	may i know your business plans	0
+71	61	how to measure product quality questions	tell me the best selling product	0
+274	274	what are the missing features in the product?	what are the missing features in the product?	1
+274	9	what are the missing features in the product?	Which features are most valuable to your product	0
+274	260	what are the missing features in the product?	What important features are we missing?	0
+274	8	what are the missing features in the product?	Tell me about your products	0
+274	271	what are the missing features in the product?	please provide the missing features?	0
+274	4	what are the missing features in the product?	main benefits of our product	0
+274	6	what are the missing features in the product?	How useful our product	0
+274	7	what are the missing features in the product?	What are you trying to solve by using our product?	0
+274	61	what are the missing features in the product?	tell me the best selling product	0
+274	5	what are the missing features in the product?	useful solutions by our product	0
+28	28	Where are your Company’s remote, sales and support offices located	Where are your Company’s remote, sales and support offices located	1
+28	24	Where are your Company’s remote, sales and support offices located	what is your company location?	1
+28	23	Where are your Company’s remote, sales and support offices located	where is your company located	1
+28	119	Where are your Company’s remote, sales and support offices located	where is your company's support offices?	1
+28	21	Where are your Company’s remote, sales and support offices located	locations of your company?	0
+28	47	Where are your Company’s remote, sales and support offices located	location of your main office	0
+28	55	Where are your Company’s remote, sales and support offices located	is there any online support for clients	0
+28	44	Where are your Company’s remote, sales and support offices located	Your locations ?	0
+28	26	Where are your Company’s remote, sales and support offices located	what are your client locations?	0
+28	53	Where are your Company’s remote, sales and support offices located	How will be your online support working	0
+5	5	useful solutions by our product	useful solutions by our product	1
+5	6	useful solutions by our product	How useful our product	1
+5	7	useful solutions by our product	What are you trying to solve by using our product?	1
+5	4	useful solutions by our product	main benefits of our product	1
+5	3	useful solutions by our product	How easy is it to use our products?	1
+5	1	useful solutions by our product	How easy is it to use our product?	0
+5	9	useful solutions by our product	Which features are most valuable to your product	0
+5	8	useful solutions by our product	Tell me about your products	0
+5	10	useful solutions by our product	best product of your company	0
+5	11	useful solutions by our product	Tell me about your best product	0
+14	14	your company name?	your company name?	1
+14	16	your company name?	Your company name	1
+14	85	your company name?	What is your company name?	1
+14	81	your company name?	what is your company name	1
+14	18	your company name?	What is your company's legal name?	1
+14	19	your company name?	What is your Company’s legal name	1
+14	81	your company name?	may i know your company name?	1
+14	36	your company name?	What is your parent organisation name?	1
+14	103	your company name?	your organisation name?	1
+14	41	your company name?	what is your organisation name?	1
+234	234	who is your major shareholder	who is your major shareholder	1
+234	17	who is your major shareholder	who is the main investor of your company?	1
+234	50	who is your major shareholder	Who is your investor	1
+234	36	who is your major shareholder	What is your parent organisation name?	0
+234	81	who is your major shareholder	what is your company name	0
+234	85	who is your major shareholder	What is your company name?	0
+234	239	who is your major shareholder	your main competitors?	0
+234	14	who is your major shareholder	your company name?	0
+234	19	who is your major shareholder	What is your Company’s legal name	0
+234	235	who is your major shareholder	Tell me about your investers	0
+23	23	where is your company located	where is your company located	1
+23	21	where is your company located	locations of your company?	1
+23	24	where is your company located	what is your company location?	1
+23	28	where is your company located	Where are your Company’s remote, sales and support offices located	1
+23	26	where is your company located	what are your client locations?	1
+23	47	where is your company located	location of your main office	1
+23	119	where is your company located	where is your company's support offices?	1
+23	17	where is your company located	who is the main investor of your company?	0
+23	25	where is your company located	what are the company locations	0
+23	77	where is your company located	What is the founding date of your company	0
+35	35	What is your plan for next year	What is your plan for next year	1
+35	93	What is your plan for next year	What is your current business plan	1
+35	60	What is your plan for next year	may i know your business plans	1
+35	40	What is your plan for next year	what are your business plans?	1
+35	94	What is your plan for next year	Tell me about your business plans	1
+35	96	What is your plan for next year	What is your Company’s planned financial growth	0
+35	57	What is your plan for next year	What is the normal full System support available	0
+35	11	What is your plan for next year	Tell me about your best product	0
+35	31	What is your plan for next year	please add your awards	0
+35	38	What is your plan for next year	what is your most popular product?	0
+8	8	Tell me about your products	Tell me about your products	1
+8	9	Tell me about your products	Which features are most valuable to your product	1
+8	11	Tell me about your products	Tell me about your best product	1
+8	4	Tell me about your products	main benefits of our product	1
+8	6	Tell me about your products	How useful our product	1
+8	39	Tell me about your products	Which is your best selling product	1
+8	61	Tell me about your products	tell me the best selling product	1
+8	7	Tell me about your products	What are you trying to solve by using our product?	1
+8	38	Tell me about your products	what is your most popular product?	0
+8	3	Tell me about your products	How easy is it to use our products?	0
+9	9	Which features are most valuable to your product	Which features are most valuable to your product	1
+9	39	Which features are most valuable to your product	Which is your best selling product	1
+9	11	Which features are most valuable to your product	Tell me about your best product	1
+9	8	Which features are most valuable to your product	Tell me about your products	1
+9	4	Which features are most valuable to your product	main benefits of our product	1
+9	38	Which features are most valuable to your product	what is your most popular product?	1
+9	6	Which features are most valuable to your product	How useful our product	1
+9	61	Which features are most valuable to your product	tell me the best selling product	1
+9	10	Which features are most valuable to your product	best product of your company	1
+9	34	Which features are most valuable to your product	Which features are most valuable to you	1
+73	73	tell me your company origins	tell me your company origins	1
+73	71	tell me your company origins	What are you Company’s origins	1
+73	74	tell me your company origins	When was your company founded	1
+73	75	tell me your company origins	When was your Company founded	1
+73	21	tell me your company origins	When was your company founded?	1
+73	30	tell me your company origins	founding date of your company	1
+73	77	tell me your company origins	What is the founding date of your company	1
+73	79	tell me your company origins	How is your Company financed	0
+73	20	tell me your company origins	How is your company financed?	0
+73	241	tell me your company origins	How is your company funded	0
+15	15	may i know your company founding date	may i know your company founding date	1
+15	77	may i know your company founding date	What is the founding date of your company	1
+15	30	may i know your company founding date	founding date of your company	1
+15	81	may i know your company founding date	may i know your company name?	1
+15	88	may i know your company founding date	may i know your company	1
+15	83	may i know your company founding date	may i know your organisation name	1
+15	60	may i know your company founding date	may i know your business plans	0
+15	153	may i know your company founding date	may i know your organisation	0
+15	21	may i know your company founding date	When was your company founded?	0
+15	71	may i know your company founding date	What are you Company’s origins	0
+11	11	Tell me about your best product	Tell me about your best product	1
+11	39	Tell me about your best product	Which is your best selling product	1
+11	61	Tell me about your best product	tell me the best selling product	1
+11	9	Tell me about your best product	Which features are most valuable to your product	1
+11	38	Tell me about your best product	what is your most popular product?	1
+11	8	Tell me about your best product	Tell me about your products	1
+11	34	Tell me about your best product	Which features are most valuable to you	1
+11	10	Tell me about your best product	best product of your company	0
+11	4	Tell me about your best product	main benefits of our product	0
+11	93	Tell me about your best product	What is your current business plan	0
+93	93	What is your current business plan	What is your current business plan	1
+93	40	What is your current business plan	what are your business plans?	1
+93	94	What is your current business plan	Tell me about your business plans	1
+93	60	What is your current business plan	may i know your business plans	1
+93	96	What is your current business plan	What is your Company’s planned financial growth	1
+93	35	What is your current business plan	What is your plan for next year	1
+93	98	What is your current business plan	What is your Company’s business continuity plan	1
+93	39	What is your current business plan	Which is your best selling product	0
+93	38	What is your current business plan	what is your most popular product?	0
+93	11	What is your current business plan	Tell me about your best product	0
+105	105	Your Organisation name	Your Organisation name	1
+105	103	Your Organisation name	your organisation name?	1
+105	41	Your Organisation name	what is your organisation name?	1
+105	83	Your Organisation name	may i know your organisation name	1
+105	36	Your Organisation name	What is your parent organisation name?	1
+105	14	Your Organisation name	your company name?	1
+105	16	Your Organisation name	Your company name	1
+105	81	Your Organisation name	what is your company name	1
+105	85	Your Organisation name	What is your company name?	1
+105	19	Your Organisation name	What is your Company’s legal name	0
+253	253	How is product quality KPI measured?	How is product quality KPI measured?	1
+253	563	How is product quality KPI measured?	How can we measure product quality?	0
+253	564	How is product quality KPI measured?	How do companies measure quality?	0
+253	566	How is product quality KPI measured?	product quality metrics	0
+253	71	How is product quality KPI measured?	how to measure product quality questions	0
+253	567	How is product quality KPI measured?	What metrics can be used to measure quality?	0
+253	565	How is product quality KPI measured?	quality measurement methods	0
+253	568	How is product quality KPI measured?	indicators of product quality	0
+253	251	How is product quality KPI measured?	What are the three types of KPIs?	0
+253	8	How is product quality KPI measured?	Tell me about your products	0
+38	38	what is your most popular product?	what is your most popular product?	1
+38	39	what is your most popular product?	Which is your best selling product	1
+38	11	what is your most popular product?	Tell me about your best product	1
+38	61	what is your most popular product?	tell me the best selling product	1
+38	9	what is your most popular product?	Which features are most valuable to your product	1
+38	34	what is your most popular product?	Which features are most valuable to you	1
+38	40	what is your most popular product?	what are your business plans?	0
+38	96	what is your most popular product?	What is your Company’s planned financial growth	0
+38	8	what is your most popular product?	Tell me about your products	0
+38	93	what is your most popular product?	What is your current business plan	0
+568	568	indicators of product quality	indicators of product quality	1
+568	566	indicators of product quality	product quality metrics	1
+568	563	indicators of product quality	How can we measure product quality?	1
+568	564	indicators of product quality	How do companies measure quality?	1
+568	567	indicators of product quality	What metrics can be used to measure quality?	0
+568	565	indicators of product quality	quality measurement methods	0
+568	71	indicators of product quality	how to measure product quality questions	0
+568	8	indicators of product quality	Tell me about your products	0
+568	9	indicators of product quality	Which features are most valuable to your product	0
+568	4	indicators of product quality	main benefits of our product	0
+119	119	where is your company's support offices?	where is your company's support offices?	1
+119	28	where is your company's support offices?	Where are your Company’s remote, sales and support offices located	1
+119	23	where is your company's support offices?	where is your company located	1
+119	58	where is your company's support offices?	what are the support you provided for clients	0
+119	24	where is your company's support offices?	what is your company location?	0
+119	47	where is your company's support offices?	location of your main office	0
+119	53	where is your company's support offices?	How will be your online support working	0
+119	21	where is your company's support offices?	locations of your company?	0
+119	26	where is your company's support offices?	what are your client locations?	0
+119	141	where is your company's support offices?	What support documentation is provided	0
+37	37	What is your name	What is your name	1
+37	36	What is your name	What is your parent organisation name?	1
+37	81	What is your name	what is your company name	1
+37	85	What is your name	What is your company name?	1
+37	41	What is your name	what is your organisation name?	1
+37	14	What is your name	your company name?	0
+37	103	What is your name	your organisation name?	0
+37	16	What is your name	Your company name	0
+37	105	What is your name	Your Organisation name	0
+37	18	What is your name	What is your company's legal name?	0
+565	565	quality measurement methods	quality measurement methods	1
+565	564	quality measurement methods	How do companies measure quality?	1
+565	563	quality measurement methods	How can we measure product quality?	1
+565	567	quality measurement methods	What metrics can be used to measure quality?	1
+565	71	quality measurement methods	how to measure product quality questions	1
+565	566	quality measurement methods	product quality metrics	1
+565	568	quality measurement methods	indicators of product quality	0
+565	253	quality measurement methods	How is product quality KPI measured?	0
+565	454	quality measurement methods	Please describe any industry accreditations	0
+565	34	quality measurement methods	Which features are most valuable to you	0
+566	566	product quality metrics	product quality metrics	1
+566	568	product quality metrics	indicators of product quality	1
+566	563	product quality metrics	How can we measure product quality?	1
+566	564	product quality metrics	How do companies measure quality?	1
+566	567	product quality metrics	What metrics can be used to measure quality?	1
+566	565	product quality metrics	quality measurement methods	1
+566	71	product quality metrics	how to measure product quality questions	0
+566	253	product quality metrics	How is product quality KPI measured?	0
+566	8	product quality metrics	Tell me about your products	0
+566	6	product quality metrics	How useful our product	0
+85	85	What is your company name?	What is your company name?	1
+85	81	What is your company name?	what is your company name	1
+85	14	What is your company name?	your company name?	1
+85	16	What is your company name?	Your company name	1
+85	18	What is your company name?	What is your company's legal name?	1
+85	19	What is your company name?	What is your Company’s legal name	1
+85	41	What is your company name?	what is your organisation name?	1
+85	36	What is your company name?	What is your parent organisation name?	1
+85	37	What is your company name?	What is your name	1
+85	81	What is your company name?	may i know your company name?	1
+241	241	How is your company funded	How is your company funded	1
+241	79	How is your company funded	How is your Company financed	1
+241	20	How is your company funded	How is your company financed?	1
+241	71	How is your company funded	What are you Company’s origins	0
+241	73	How is your company funded	tell me your company origins	0
+241	50	How is your company funded	Who is your investor	0
+241	235	How is your company funded	Tell me about your investers	0
+241	17	How is your company funded	who is the main investor of your company?	0
+241	94	How is your company funded	Tell me about your business plans	0
+241	40	How is your company funded	what are your business plans?	0
+6	6	How useful our product	How useful our product	1
+6	4	How useful our product	main benefits of our product	1
+6	5	How useful our product	useful solutions by our product	1
+6	9	How useful our product	Which features are most valuable to your product	1
+6	8	How useful our product	Tell me about your products	1
+6	1	How useful our product	How easy is it to use our product?	0
+6	7	How useful our product	What are you trying to solve by using our product?	0
+6	3	How useful our product	How easy is it to use our products?	0
+6	61	How useful our product	tell me the best selling product	0
+6	11	How useful our product	Tell me about your best product	0
+811	811	What is the number of live implementations on each product version 5	What is the number of live implementations on each product version 5	1
+811	813	What is the number of live implementations on each product version 5	how version 5 implimented	0
+811	55	What is the number of live implementations on each product version 5	is there any online support for clients	0
+811	57	What is the number of live implementations on each product version 5	What is the normal full System support available	0
+811	25	What is the number of live implementations on each product version 5	what are the company locations	0
+811	495	What is the number of live implementations on each product version 5	How will share your knowledge with others?	0
+811	53	What is the number of live implementations on each product version 5	How will be your online support working	0
+811	51	What is the number of live implementations on each product version 5	Can you give me online support	0
+811	28	What is the number of live implementations on each product version 5	Where are your Company’s remote, sales and support offices located	0
+811	141	What is the number of live implementations on each product version 5	What support documentation is provided	0
+55	55	is there any online support for clients	is there any online support for clients	1
+55	51	is there any online support for clients	Can you give me online support	1
+55	58	is there any online support for clients	what are the support you provided for clients	1
+55	53	is there any online support for clients	How will be your online support working	1
+55	54	is there any online support for clients	Do you provide online help for users	1
+55	57	is there any online support for clients	What is the normal full System support available	0
+55	28	is there any online support for clients	Where are your Company’s remote, sales and support offices located	0
+55	49	is there any online support for clients	may i know your locations	0
+55	26	is there any online support for clients	what are your client locations?	0
+55	119	is there any online support for clients	where is your company's support offices?	0
+75	74	When was your Company founded	When was your company founded	1
+75	75	When was your Company founded	When was your Company founded	1
+75	21	When was your Company founded	When was your company founded?	1
+75	77	When was your Company founded	What is the founding date of your company	1
+75	30	When was your Company founded	founding date of your company	1
+75	73	When was your Company founded	tell me your company origins	1
+75	71	When was your Company founded	What are you Company’s origins	1
+75	319	When was your Company founded	When was your company inagurated	1
+75	15	When was your Company founded	may i know your company founding date	0
+75	23	When was your Company founded	where is your company located	0
+25	25	what are the company locations	what are the company locations	1
+25	21	what are the company locations	locations of your company?	1
+25	24	what are the company locations	what is your company location?	1
+25	23	what are the company locations	where is your company located	0
+25	26	what are the company locations	what are your client locations?	0
+25	28	what are the company locations	Where are your Company’s remote, sales and support offices located	0
+25	44	what are the company locations	Your locations ?	0
+25	47	what are the company locations	location of your main office	0
+25	49	what are the company locations	may i know your locations	0
+25	77	what are the company locations	What is the founding date of your company	0
+79	79	How is your Company financed	How is your Company financed	1
+79	20	How is your Company financed	How is your company financed?	1
+79	241	How is your Company financed	How is your company funded	1
+79	71	How is your Company financed	What are you Company’s origins	0
+79	73	How is your Company financed	tell me your company origins	0
+79	17	How is your Company financed	who is the main investor of your company?	0
+79	50	How is your Company financed	Who is your investor	0
+79	235	How is your Company financed	Tell me about your investers	0
+79	81	How is your Company financed	what is your company name	0
+79	24	How is your Company financed	what is your company location?	0
+121	121	How do you implement your solution	How do you implement your solution	1
+121	53	How do you implement your solution	How will be your online support working	0
+121	57	How do you implement your solution	What is the normal full System support available	0
+121	93	How do you implement your solution	What is your current business plan	0
+121	40	How do you implement your solution	what are your business plans?	0
+121	94	How do you implement your solution	Tell me about your business plans	0
+121	56	How do you implement your solution	Please add about knowledge transfer	0
+121	51	How do you implement your solution	Can you give me online support	0
+121	60	How do you implement your solution	may i know your business plans	0
+121	11	How do you implement your solution	Tell me about your best product	0
+24	24	what is your company location?	what is your company location?	1
+24	21	what is your company location?	locations of your company?	1
+24	23	what is your company location?	where is your company located	1
+24	26	what is your company location?	what are your client locations?	1
+24	28	what is your company location?	Where are your Company’s remote, sales and support offices located	1
+24	44	what is your company location?	Your locations ?	1
+24	81	what is your company location?	what is your company name	1
+24	85	what is your company location?	What is your company name?	1
+24	47	what is your company location?	location of your main office	1
+24	25	what is your company location?	what are the company locations	1
+344	344	how last vertion implimented	how last vertion implimented	1
+344	813	how last vertion implimented	how version 5 implimented	0
+344	283	how last vertion implimented	How long has the product existed for since its first version	0
+344	133	how last vertion implimented	How is your company's growth	0
+344	98	how last vertion implimented	What is your Company’s business continuity plan	0
+344	71	how last vertion implimented	What are you Company’s origins	0
+344	33	how last vertion implimented	Please describe any recent industry awards	0
+344	73	how last vertion implimented	tell me your company origins	0
+344	60	how last vertion implimented	may i know your business plans	0
+344	96	how last vertion implimented	What is your Company’s planned financial growth	0
+564	564	How do companies measure quality?	How do companies measure quality?	1
+564	563	How do companies measure quality?	How can we measure product quality?	1
+564	567	How do companies measure quality?	What metrics can be used to measure quality?	1
+564	565	How do companies measure quality?	quality measurement methods	1
+564	71	How do companies measure quality?	how to measure product quality questions	1
+564	566	How do companies measure quality?	product quality metrics	1
+564	568	How do companies measure quality?	indicators of product quality	1
+564	253	How do companies measure quality?	How is product quality KPI measured?	0
+564	11	How do companies measure quality?	Tell me about your best product	0
+564	454	How do companies measure quality?	Please describe any industry accreditations	0
+493	493	please provide details about knowledge transfer	please provide details about knowledge transfer	1
+493	56	please provide details about knowledge transfer	Please add about knowledge transfer	1
+493	494	please provide details about knowledge transfer	How is formal knowledge transfer accomplished as part of the engagement	0
+493	495	please provide details about knowledge transfer	How will share your knowledge with others?	0
+493	51	please provide details about knowledge transfer	Can you give me online support	0
+493	94	please provide details about knowledge transfer	Tell me about your business plans	0
+493	53	please provide details about knowledge transfer	How will be your online support working	0
+493	60	please provide details about knowledge transfer	may i know your business plans	0
+493	96	please provide details about knowledge transfer	What is your Company’s planned financial growth	0
+493	40	please provide details about knowledge transfer	what are your business plans?	0
+16	16	Your company name	Your company name	1
+16	14	Your company name	your company name?	1
+16	81	Your company name	what is your company name	1
+16	19	Your company name	What is your Company’s legal name	1
+16	85	Your company name	What is your company name?	1
+16	18	Your company name	What is your company's legal name?	1
+16	105	Your company name	Your Organisation name	1
+16	36	Your company name	What is your parent organisation name?	1
+16	81	Your company name	may i know your company name?	1
+16	41	Your company name	what is your organisation name?	1
+454	454	Please describe any industry accreditations	Please describe any industry accreditations	1
+454	33	Please describe any industry accreditations	Please describe any recent industry awards	0
+454	71	Please describe any industry accreditations	how to measure product quality questions	0
+454	564	Please describe any industry accreditations	How do companies measure quality?	0
+454	565	Please describe any industry accreditations	quality measurement methods	0
+454	563	Please describe any industry accreditations	How can we measure product quality?	0
+454	28	Please describe any industry accreditations	Where are your Company’s remote, sales and support offices located	0
+454	57	Please describe any industry accreditations	What is the normal full System support available	0
+454	61	Please describe any industry accreditations	tell me the best selling product	0
+454	568	Please describe any industry accreditations	indicators of product quality	0
+494	494	How is formal knowledge transfer accomplished as part of the engagement	How is formal knowledge transfer accomplished as part of the engagement	1
+494	56	How is formal knowledge transfer accomplished as part of the engagement	Please add about knowledge transfer	1
+494	493	How is formal knowledge transfer accomplished as part of the engagement	please provide details about knowledge transfer	0
+494	495	How is formal knowledge transfer accomplished as part of the engagement	How will share your knowledge with others?	0
+494	53	How is formal knowledge transfer accomplished as part of the engagement	How will be your online support working	0
+494	98	How is formal knowledge transfer accomplished as part of the engagement	What is your Company’s business continuity plan	0
+494	121	How is formal knowledge transfer accomplished as part of the engagement	How do you implement your solution	0
+494	94	How is formal knowledge transfer accomplished as part of the engagement	Tell me about your business plans	0
+494	51	How is formal knowledge transfer accomplished as part of the engagement	Can you give me online support	0
+494	96	How is formal knowledge transfer accomplished as part of the engagement	What is your Company’s planned financial growth	0
+34	34	Which features are most valuable to you	Which features are most valuable to you	1
+34	39	Which features are most valuable to you	Which is your best selling product	1
+34	38	Which features are most valuable to you	what is your most popular product?	1
+34	9	Which features are most valuable to you	Which features are most valuable to your product	1
+34	11	Which features are most valuable to you	Tell me about your best product	1
+34	61	Which features are most valuable to you	tell me the best selling product	0
+34	40	Which features are most valuable to you	what are your business plans?	0
+34	31	Which features are most valuable to you	please add your awards	0
+34	94	Which features are most valuable to you	Tell me about your business plans	0
+34	93	Which features are most valuable to you	What is your current business plan	0
+58	58	what are the support you provided for clients	what are the support you provided for clients	1
+58	55	what are the support you provided for clients	is there any online support for clients	1
+58	119	what are the support you provided for clients	where is your company's support offices?	0
+58	51	what are the support you provided for clients	Can you give me online support	0
+58	53	what are the support you provided for clients	How will be your online support working	0
+58	40	what are the support you provided for clients	what are your business plans?	0
+58	26	what are the support you provided for clients	what are your client locations?	0
+58	241	what are the support you provided for clients	How is your company funded	0
+58	57	what are the support you provided for clients	What is the normal full System support available	0
+58	54	what are the support you provided for clients	Do you provide online help for users	0
+563	563	How can we measure product quality?	How can we measure product quality?	1
+563	564	How can we measure product quality?	How do companies measure quality?	1
+563	567	How can we measure product quality?	What metrics can be used to measure quality?	1
+563	71	How can we measure product quality?	how to measure product quality questions	1
+563	568	How can we measure product quality?	indicators of product quality	1
+563	566	How can we measure product quality?	product quality metrics	1
+563	565	How can we measure product quality?	quality measurement methods	1
+563	253	How can we measure product quality?	How is product quality KPI measured?	0
+563	11	How can we measure product quality?	Tell me about your best product	0
+563	61	How can we measure product quality?	tell me the best selling product	0
+54	54	Do you provide online help for users	Do you provide online help for users	1
+54	51	Do you provide online help for users	Can you give me online support	1
+54	55	Do you provide online help for users	is there any online support for clients	1
+54	53	Do you provide online help for users	How will be your online support working	1
+54	401	Do you provide online help for users	Do you provide a helpdesk for users (if yes, what is the availability)	0
+54	28	Do you provide online help for users	Where are your Company’s remote, sales and support offices located	0
+54	58	Do you provide online help for users	what are the support you provided for clients	0
+54	49	Do you provide online help for users	may i know your locations	0
+54	24	Do you provide online help for users	what is your company location?	0
+54	26	Do you provide online help for users	what are your client locations?	0
+813	813	how version 5 implimented	how version 5 implimented	1
+813	811	how version 5 implimented	What is the number of live implementations on each product version 5	0
+813	344	how version 5 implimented	how last vertion implimented	0
+813	495	how version 5 implimented	How will share your knowledge with others?	0
+813	133	how version 5 implimented	How is your company's growth	0
+813	34	how version 5 implimented	Which features are most valuable to you	0
+813	271	how version 5 implimented	please provide the missing features?	0
+813	253	how version 5 implimented	How is product quality KPI measured?	0
+813	60	how version 5 implimented	may i know your business plans	0
+813	565	how version 5 implimented	quality measurement methods	0
+20	20	How is your company financed?	How is your company financed?	1
+20	79	How is your company financed?	How is your Company financed	1
+20	241	How is your company financed?	How is your company funded	1
+20	17	How is your company financed?	who is the main investor of your company?	0
+20	71	How is your company financed?	What are you Company’s origins	0
+20	73	How is your company financed?	tell me your company origins	0
+20	50	How is your company financed?	Who is your investor	0
+20	235	How is your company financed?	Tell me about your investers	0
+20	81	How is your company financed?	what is your company name	0
+20	19	How is your company financed?	What is your Company’s legal name	0
+495	495	How will share your knowledge with others?	How will share your knowledge with others?	1
+495	56	How will share your knowledge with others?	Please add about knowledge transfer	0
+495	493	How will share your knowledge with others?	please provide details about knowledge transfer	0
+495	49	How will share your knowledge with others?	may i know your locations	0
+495	60	How will share your knowledge with others?	may i know your business plans	0
+495	34	How will share your knowledge with others?	Which features are most valuable to you	0
+495	94	How will share your knowledge with others?	Tell me about your business plans	0
+495	51	How will share your knowledge with others?	Can you give me online support	0
+495	494	How will share your knowledge with others?	How is formal knowledge transfer accomplished as part of the engagement	0
+495	40	How will share your knowledge with others?	what are your business plans?	0
+319	319	When was your company inagurated	When was your company inagurated	1
+319	21	When was your company inagurated	When was your company founded?	1
+319	74	When was your company inagurated	When was your company founded	1
+319	75	When was your company inagurated	When was your Company founded	1
+319	77	When was your company inagurated	What is the founding date of your company	0
+319	30	When was your company inagurated	founding date of your company	0
+319	71	When was your company inagurated	What are you Company’s origins	0
+319	73	When was your company inagurated	tell me your company origins	0
+319	23	When was your company inagurated	where is your company located	0
+319	11	When was your company inagurated	Has your Company ever filed for bankruptcy	0
+135	135	What is your Company’s Turnover rate	What is your Company’s Turnover rate	1
+135	96	What is your Company’s Turnover rate	What is your Company’s planned financial growth	1
+135	133	What is your Company’s Turnover rate	How is your company's growth	0
+135	38	What is your Company’s Turnover rate	what is your most popular product?	0
+135	40	What is your Company’s Turnover rate	what are your business plans?	0
+135	17	What is your Company’s Turnover rate	who is the main investor of your company?	0
+135	93	What is your Company’s Turnover rate	What is your current business plan	0
+135	39	What is your Company’s Turnover rate	Which is your best selling product	0
+135	234	What is your Company’s Turnover rate	who is your major shareholder	0
+135	81	What is your Company’s Turnover rate	what is your company name	0
+567	567	What metrics can be used to measure quality?	What metrics can be used to measure quality?	1
+567	564	What metrics can be used to measure quality?	How do companies measure quality?	1
+567	563	What metrics can be used to measure quality?	How can we measure product quality?	1
+567	565	What metrics can be used to measure quality?	quality measurement methods	1
+567	566	What metrics can be used to measure quality?	product quality metrics	1
+567	568	What metrics can be used to measure quality?	indicators of product quality	0
+567	71	What metrics can be used to measure quality?	how to measure product quality questions	0
+567	253	What metrics can be used to measure quality?	How is product quality KPI measured?	0
+567	11	What metrics can be used to measure quality?	Tell me about your best product	0
+567	61	What metrics can be used to measure quality?	tell me the best selling product	0
+17	17	who is the main investor of your company?	who is the main investor of your company?	1
+17	50	who is the main investor of your company?	Who is your investor	1
+17	234	who is the main investor of your company?	who is your major shareholder	1
+17	19	who is the main investor of your company?	What is your Company’s legal name	0
+17	20	who is the main investor of your company?	How is your company financed?	0
+17	81	who is the main investor of your company?	what is your company name	0
+17	14	who is the main investor of your company?	your company name?	0
+17	18	who is the main investor of your company?	What is your company's legal name?	0
+17	79	who is the main investor of your company?	How is your Company financed	0
+17	16	who is the main investor of your company?	Your company name	0
+13	13	status of the bankruptcy filing	status of the bankruptcy filing	1
+13	351	status of the bankruptcy filing	what is the status of bankruptcy?	0
+13	11	status of the bankruptcy filing	Has your Company ever filed for bankruptcy	0
+13	18	status of the bankruptcy filing	What is your company's legal name?	0
+13	308	status of the bankruptcy filing	may i knnow your financial status	0
+13	19	status of the bankruptcy filing	What is your Company’s legal name	0
+13	14	status of the bankruptcy filing	your company name?	0
+13	15	status of the bankruptcy filing	may i know your company founding date	0
+13	81	status of the bankruptcy filing	may i know your company name?	0
+13	16	status of the bankruptcy filing	Your company name	0
+30	30	founding date of your company	founding date of your company	1
+30	77	founding date of your company	What is the founding date of your company	1
+30	15	founding date of your company	may i know your company founding date	1
+30	74	founding date of your company	When was your company founded	1
+30	75	founding date of your company	When was your Company founded	1
+30	21	founding date of your company	When was your company founded?	1
+30	71	founding date of your company	What are you Company’s origins	1
+30	73	founding date of your company	tell me your company origins	1
+30	24	founding date of your company	what is your company location?	0
+30	19	founding date of your company	What is your Company’s legal name	0
